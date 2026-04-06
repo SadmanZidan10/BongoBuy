@@ -9,10 +9,7 @@
 - User-friendly product browsing and filtering
 - Cart system with live item count
 - Responsive design for mobile and desktop
-- Mission & Vision sections
-- Stats and team showcase
 - Built with React, Tailwind CSS and React Router
-- Founder & quote section
 
 ---
 
